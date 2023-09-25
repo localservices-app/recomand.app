@@ -1,0 +1,12 @@
+name = ""
+type = "webpack"
+account_id = "a09497efa4efff4b15c9deaf0d344478"
+route = "piesecnc.tiverto.ro"
+zone_id = "1a4340112303637f5921596ea127d06a"
+workers_dev = true
+
+[env.production]
+workers_dev = false
+account_id = "a09497efa4efff4b15c9deaf0d344478"
+route = "piesecnc.tiverto.ro"
+zone_id = "1a4340112303637f5921596ea127d06a"

@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "ro.recomand.app",
+            "sha256_cert_fingerprints": [
+                "C1:EA:9F:5B:5F:FF:13:9A:D4:C2:35:A7:E9:96:91:C6:79:91:4E:78:CB:01:76:E2:58:CB:73:8E:30:C6:B2:A9"
+            ]
+        }
+    }
+]
